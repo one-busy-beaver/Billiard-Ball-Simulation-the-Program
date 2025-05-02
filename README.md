@@ -2,12 +2,18 @@
 A place to store the actual program of the billiard ball simulation project. To check out the Unity assets, see [this](https://github.com/catloaf-cafe/Billiard-Ball-Simulation).
 
 ## Functionality
-regular ball, special ball, violation of causality...
+This project aims to simulate an instance of violation of causality. 
+
+There are two balls in the system, regular balls and special balls. Regular balls are the ones that "obey and react" to the physical world. When there is an impact, these balls will bounce back as what we expect from the laws of physics. 
+
+Special balls, on the other hand, won't be pushed back when they have an impact with regular balls. Instead, they will follow their original path, and only the regular balls will bounce back. They also won't come in contact with each other. Special balls are also designed to be able to attract or repel regular balls to create a larger violation of causality.
+
+The user can control how many regular and special balls that are on the screen, and how fast they move, etc..
 
 ## Demo
 will insert
 
-## Custom Input Type
+## Custom Inputs and What They Mean
 ### Regular Ball Quantity (int)
 Parameter for the amount of regular balls you want. It can be adjusted during simulation. 
 - Suggested Range: [0, 500]
@@ -33,11 +39,11 @@ Represents the special balls' speed. Since special balls are programmed to not h
 Represents the special balls' deviation from its straight path ahead. Similar description as above.
 - Suggested Range: [0, 5]
 
-## Keyboard Controls:
+## Keyboard Controls
 ### Setting Menu
 - Space - resume 
 - Return - reset 
-### During Simulation
+### In Simulation
 - Space - pause <br>
 - "-", "+" - delete/add regular balls 
 - "[", "]" - delete/add special balls 
