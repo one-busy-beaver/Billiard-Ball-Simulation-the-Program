@@ -20,7 +20,7 @@ Parameter for the amount of regular balls you want. It can be adjusted during si
 ### Velocity Constant (float)
 Parameter for both regular and special balls. The default should be set to 1. Notice that the velocity is automatically scaled inversely to the total ball quantity, so this parameter is only modified when the user wants to make additional adjustments. 
 - Suggested Range: [0, 5]
-### Diameter Constant （float)
+### Diameter Constant（float)
 Parameter for both regular and special balls. Similar description as above. 
 - Suggested Range: (0, 5]
 ### Special Ball Quantity (int)
