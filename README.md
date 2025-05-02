@@ -4,6 +4,8 @@ A place to store the actual program of the billiard ball simulation project. To 
 ## Functionality
 regular ball, special ball, violation of causality...
 
+## Demo
+
 ## Custom Input Type
 ### Regular Ball Quantity (int)
 Parameter for the amount of regular balls you want. It can be adjusted during simulation. 
