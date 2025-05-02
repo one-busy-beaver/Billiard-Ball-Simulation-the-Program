@@ -1,4 +1,5 @@
-A place to store the actual build of the billiard ball simulation. To check out the Unity assets and settings, see my billiard-ball-simulation.
+# Billiard Ball Simulation Program
+A place to store the actual program of the billiard ball simulation project. To check out the Unity assets, see [this](https://github.com/catloaf-cafe/Billiard-Ball-Simulation).
 
 ### Custom Input Type and (Suggested) Range: 
 
