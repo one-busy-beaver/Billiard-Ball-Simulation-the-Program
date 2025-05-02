@@ -11,7 +11,7 @@ Special balls, on the other hand, won't be pushed back when they have an impact 
 The user can control how many regular and special balls that are on the screen, and how fast they move, etc..
 
 ## Demo
-<img src="demo/demo.gif" alt="Demo" width="600"/>
+<img src="demo%20file/demo.gif" alt="Demo" width="800"/>
 
 ## Custom Inputs and What They Mean
 ### Regular Ball Quantity (int)
