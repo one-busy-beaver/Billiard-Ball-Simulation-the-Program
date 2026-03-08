@@ -1,5 +1,5 @@
 # Billiard Ball Simulation the Program
-A place to store the actual program of the billiard ball simulation project. To check out the Unity assets, see [this](https://github.com/catloaf-cafe/Billiard-Ball-Simulation).
+This repository contains the desktop build of the billiard ball simulation project. To check out the Unity assets, see [Billiard Ball Simulation](https://github.com/one-busy-beaver/Billiard-Ball-Simulation).
 
 ## Functionality
 This project aims to simulate an instance of violation of causality. 
